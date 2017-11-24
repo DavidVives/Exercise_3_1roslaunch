@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>exercise_3_1</name>
+  <name>Exercise_3_1roslaunch</name>
   <version>0.0.0</version>
   <description>The masteruvic exercise 3.1 package</description>
   <maintainer email="david@maig.io">david</maintainer>

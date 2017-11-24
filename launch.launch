@@ -2,8 +2,8 @@
 <launch>
 
 	<!-- load parameters-->
-	<group ns = "exercise_3_1">
-		<rosparam command="load" file="$(find exercise_3_1)/parameter.yaml" />
+	<group ns = "Exercise_3_1roslaunch">
+		<rosparam command="load" file="$(find Exercise_3_1roslaunch)/parameter.yaml" />
 	</group>
 
 	<!-- rviz -->
